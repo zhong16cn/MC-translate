@@ -1,4 +1,4 @@
-#![144526473](https://github.com/zhong16cn/MC-translate/assets/144526473/11eb47d5-ef48-422a-a9b7-ffaf818479bf) MC-translate 
+# MC-translate ![144526473](https://github.com/zhong16cn/MC-translate/assets/144526473/11eb47d5-ef48-422a-a9b7-ffaf818479bf)
 
 插件汉化与配置翻译脚本  
 脚本原理是将特定符号如(#,=,:)后的内容拿去翻译  
